@@ -1,6 +1,6 @@
 ## Hi
 
-I am currently engaged in a personalized development project utilizing FastAPI, the Next.js React framework, Spring Boot, a relational database, and a Jenkins CI/CD pipeline on AWS. 
+I am currently engaged in a personalized development project utilizing FastAPI, the Next.js React Framework, Spring Boot, a Relational Database, and a Jenkins CI/CD pipeline on AWS. 
 
 Previously, I have worked as a:
 - Sandvine: Software Engineer & Software Engineer II >> Python, GoLang, Advanced SQL, and Machine Learning
