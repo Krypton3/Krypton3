@@ -3,7 +3,7 @@
 I am currently engaged in a personalized development project utilizing FastAPI, the Next.js React Framework, Spring Boot, a Relational Database, and a Jenkins CI/CD pipeline on AWS. 
 
 Previously, I have worked as a:
-- Sandvine: Software Engineer & Software Engineer II >> Python, GoLang, Advanced SQL, and Machine Learning
+- Sandvine: Software Engineer & Software Engineer II >> Python, GoLang, Advanced SQL, React, JavaScript, and Machine Learning
 - Global Institute for Water Security (GIWS): Research Assistant >> Python, Pandas, NumPy
 - University of Regina: Teaching Assistant & Research Assitant >> C++, Neural Netowrks, Tensorflow, and Distributed Machine Learning
 - Cramstack Ltd.: Junior Software Engineer >> Natural Language Queries, Python, and Django
